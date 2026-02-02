@@ -18,7 +18,7 @@ This dashboard helps understand how an e-commerce business is performing by trac
 
 4.Microsoft Excel / CSV – Source data
 
-5. Features / Highlights
+4. Features / Highlights
 
 
 Business Problem
