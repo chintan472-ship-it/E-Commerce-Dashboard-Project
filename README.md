@@ -99,4 +99,5 @@ Overall, the dashboard enables faster decision-making, better sales analysis, an
 
 his dashboard
 
-6. Screenshot of Dashboard: 
+6. Screenshot of Dashboard: (https://github.com/chintan472-ship-it/E-Commerce-Dashboard-Project/blob/main/Snapshot%20of%20Dashboard.png)
+7. 
